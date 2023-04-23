@@ -1,1 +1,2 @@
-# magical-kingdom
+# Magical Kingdom
+ボードゲームの「まじかるキングダム」を個人的にブラウザゲーム化するプロジェクト。
